@@ -1,7 +1,0 @@
-com/genai/springbootchatgpt/request/ChatGPTRequest.class
-com/genai/springbootchatgpt/controller/ChatGPTController.class
-com/genai/springbootchatgpt/request/SearchRequest.class
-com/genai/springbootchatgpt/model/ChatGPTChoice.class
-com/genai/springbootchatgpt/service/ChatGPTService.class
-com/genai/springbootchatgpt/SpringBootChatGptApplication.class
-com/genai/springbootchatgpt/response/ChatGPTResponse.class

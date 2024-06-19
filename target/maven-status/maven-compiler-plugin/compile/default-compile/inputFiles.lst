@@ -1,7 +1,0 @@
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/SpringBootChatGptApplication.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/model/ChatGPTChoice.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/request/ChatGPTRequest.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/service/ChatGPTService.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/response/ChatGPTResponse.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/request/SearchRequest.java
-/Users/praveenkumarks/isdl/chatgpt-spring-boot/src/main/java/com/genai/springbootchatgpt/controller/ChatGPTController.java
